@@ -5,6 +5,6 @@
 Feel free to download the GERBER Files and DIY the project</p>
 <p>I used a TC2030-MCP-NL connector to flash the ATMEGA8 MCU. You can flash it also with another Programmer and a TQFP32 to DIL adapter.</p>
 <p>The pinout of the TC2030-MCP-NL connector is documented in the TC2030_ISP_footprint.png</p>
-<p><strong>NOTE: I used a 0,8mm thick PCB ... it is the right fit for the 32Pin DIL socket.</strong></p>
+<p><strong>NOTE: I used a 0.8mm thick PCB ... it is the right fit for the 32Pin DIL socket.</strong></p>
 </br></br>
 <p>Greez and DIY </br></br> JDet</p>
