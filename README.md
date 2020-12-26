@@ -8,3 +8,5 @@ Feel free to download the GERBER Files and DIY the project</p>
 <p><strong>NOTE: I used a 0.8mm thick PCB ... it is the right fit for the 32Pin DIL socket.</strong></p>
 </br></br>
 <p>Greetz and DIY </br></br> JDet</p>
+<hr />
+<img src="Pictures/C64II-SKS-S-Arke-TQFP%23Oben%231_smaller.jpg" alt="64II-SKS-S-Arke-TQFP%23Oben%231_smaller"/>
