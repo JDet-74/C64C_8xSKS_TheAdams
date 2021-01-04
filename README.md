@@ -10,5 +10,6 @@ Feel free to download the GERBER Files and DIY the project</p>
 <p>Greetz and DIY <br/><br/> JDet</p>
 <hr />
 <img src="Pictures/C64II-SKS-S-Arke-TQFP%23Oben%231_smaller.jpg" alt="64II-SKS-S-Arke-TQFP%23Oben%231_smaller"/>
+
 ## Contact
 For any questions (technical or experience), please use the issue tracking system of github.
